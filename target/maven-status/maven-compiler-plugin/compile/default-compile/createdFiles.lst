@@ -1,0 +1,8 @@
+com\example\provaCollegamentoDb\model\Utente.class
+com\example\provaCollegamentoDb\controller\UtenteController.class
+com\example\provaCollegamentoDb\repository\UtenteRepository.class
+com\example\provaCollegamentoDb\service\UtenteService.class
+com\example\provaCollegamentoDb\repository\EventoRepository.class
+com\example\provaCollegamentoDb\ProvaCollegamentoDbApplication.class
+com\example\provaCollegamentoDb\service\EventoService.class
+com\example\provaCollegamentoDb\model\Evento.class
